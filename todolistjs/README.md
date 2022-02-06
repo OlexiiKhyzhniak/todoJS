@@ -1,2 +1,3 @@
-# 
-https://nifty-todo-js.netlify.app
+# Netlify
+
+Site is published at https://nifty-todo-js.netlify.app
